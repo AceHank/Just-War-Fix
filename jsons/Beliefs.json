@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Just War",
+        "type": "Enhancer",
+        "uniques": ["Comment [+20% Strength for All units when fighting in enemy territory within 3 tiles of cities that follow this religion]",
+					"[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles> <within [3] tiles of a [JW Terrain]> <hidden from users>", 
+					"JW Belief <hidden from users>"
+					]
+        // Intended effect based on comment in base game json file: Should only be enemy territory of cities that follow this religion
+    },
+]
